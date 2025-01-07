@@ -27,3 +27,7 @@
 ---
 
 ### Chapter 8: Structured Data (Week 15)
+
+---
+
+In this course, I learned the basics of C++ coding in Visual Studio Code. This is essential for me to break through the Data Engineering industry as coding is the main skill required by students and also professionals. With this, I am able to advance to the next level of C++.
